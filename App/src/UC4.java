@@ -77,7 +77,7 @@ class RoomSearchService {
 }
 
 // Main Class
-public class UseCase4RoomSearch {
+public class UC4 {
     public static void main(String[] args) {
 
         RoomInventory inventory = new RoomInventory();

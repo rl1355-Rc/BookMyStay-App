@@ -7,7 +7,7 @@
  * @author Ram charan
  * @version 1.0
  */
-public class UC1_WelcomePage {
+public class UC1 {
     /**
      * The main method is the entry point of every standalone Java application.
      * The JVM looks specifically for this method signature to start execution.
